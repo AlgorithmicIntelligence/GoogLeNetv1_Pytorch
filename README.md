@@ -2,5 +2,5 @@ Implement the code from the [Paper](https://arxiv.org/pdf/1409.4842.pdf), all th
 
 The accuracy and loss are shown as below:
 
-<img src="https://github.com/AlgorithmicIntelligence/GoogLeNet_Pytorch/blob/master/README/Accuracy.png" width="450"><img src="https://github.com/AlgorithmicIntelligence/ZFNet_Pytorch/blob/master/README/Loss.png" width="450">
+<img src="https://github.com/AlgorithmicIntelligence/GoogLeNetv1_Pytorch/blob/master/README/Accuracy.png" width="450"><img src="https://github.com/AlgorithmicIntelligence/GoogLeNetv1_Pytorch/blob/master/README/Loss.png" width="450">
 
